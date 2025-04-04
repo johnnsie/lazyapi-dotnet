@@ -1,0 +1,6 @@
+@LazyAPI_backend_HostAddress = http://localhost:5022
+
+GET {{LazyAPI_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
